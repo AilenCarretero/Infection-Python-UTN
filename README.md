@@ -10,6 +10,10 @@ Infection es un minijuego que permite crear un ADN de forma manual, incluyendo l
 3. Una vez seleccionada una opción podrás ver la evolución del ADN.
 
 ## Integrantes.
+* Martina Molina
+* Sofia Raia
+* Juan Ignacio Juarez
+* Mariano Videla
 * Ailen Carretero
 
 ---
