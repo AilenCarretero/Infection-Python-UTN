@@ -16,7 +16,8 @@ Infection es un minijuego que permite crear un ADN de forma manual, incluyendo l
 
 ### Ejemplo de uso.
 
-**Genero un ADN de manera aleatoria:**
+**Generación de un ADN de manera aleatoria:**
+
 TAAAGC
 GAACTT
 CGCTCG
@@ -24,7 +25,8 @@ TGATAG
 TCCAAT
 ACATTA
 
-**Ahora infecto el ADN con un virus:**
+**Infectando el ADN generado con un virus:**
+
 TAAAGC
 GA**G**CTT
 CGC**G**CG
@@ -32,7 +34,8 @@ TGAT**G**G
 TCCAA**G**
 ACATTA
 
-**El ADN tras ser curado:**
+**Curando el ADN generado tras la infección:**
+
 CTATTC
 ATCCGG
 TCGGAT
